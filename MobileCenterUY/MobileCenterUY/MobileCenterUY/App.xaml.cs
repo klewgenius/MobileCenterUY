@@ -20,7 +20,7 @@ namespace MobileCenterUY
         public App()
         {
             InitializeComponent();
-            //Wooala();
+            Wooala();
             MainPage = GetPage();
         }
 
